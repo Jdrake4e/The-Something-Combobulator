@@ -3,8 +3,12 @@ A lab Lesson for 0010
 This file takes a name and food then weaves them together on the interval of the name.
 
 Project Members
-John Hohman
-Connor Gramling
+* John Hohman
+* Connor Gramling
+
+## Contribution
+To contribute please submit a pull request. The team will attempt to look at the request ASAP. We greatly encourage contribution.
+
 
 ## Code of Conduct
 Please look at our code of coduct under CODE-OF-CONDUCT.md. 
